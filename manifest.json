@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "domain": "wg_easy",
   "name": "WireGuard Easy",
   "codeowners": [
