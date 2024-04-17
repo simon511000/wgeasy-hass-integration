@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from wg_easy_api_wrapper import Server
 
-from homeassistant.components.wg_easy.config_flow import InvalidAuth
+from .config_flow import InvalidAuth
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import CONF_PASSWORD, CONF_URL, Platform
 from homeassistant.core import HomeAssistant
