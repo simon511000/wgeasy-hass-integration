@@ -1,0 +1,1 @@
+# WireGuard Easy HA Integration
